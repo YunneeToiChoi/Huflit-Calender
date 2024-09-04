@@ -19,6 +19,9 @@
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "express-session": "^1.18.0",
-    "googleapis": "^143.0.0"
+    "googleapis": "^143.0.0",
+    "passport": "^0.7.0",
+    "passport-azure-ad": "^4.3.5",
+    "passport-microsoft": "^2.1.0"
   }
 }
